@@ -1,7 +1,7 @@
 # Automotive-Pilot-State-Recognition
 By Utkarsh Lal and Ryan Man
 
-Project for Engineering 96C: Internet of Things
+An Internet of Things project
 
 - The IoT model is designed to train and detect six motions that are essential in a semi-automatic car.
 - This data can be analyzed to check for safe driving. 
